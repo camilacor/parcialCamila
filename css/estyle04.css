@@ -1,0 +1,16 @@
+body { 
+	font-size: 17px;
+    font-family:'Anton', sans-serif;
+}
+header{
+    width: 90%;
+    max-width:1000px;
+    margin:20px auto;
+}
+
+  th,
+  tr,
+  td {
+    border: rgb(0, 0, 0) 5px solid;
+    text-align: center;
+  }
